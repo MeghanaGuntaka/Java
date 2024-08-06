@@ -1,8 +1,8 @@
-package Java;
+package ShapeHierarchy;
 
 public class Circle implements Shape {
 	double radius;
-	double pie;
+	double pie=3.14;
 	Circle(double radius)
 	{
 		this.radius=radius;
@@ -10,7 +10,6 @@ public class Circle implements Shape {
 	public double calculateArea()
 	{
 		System.out.println("Area of circle: ");
-		System.out.println(pie*(radius*radius));
 		return pie*(radius*radius);
 	}
 	public double calculatePerimeter()

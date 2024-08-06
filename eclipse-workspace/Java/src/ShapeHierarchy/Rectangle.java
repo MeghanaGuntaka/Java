@@ -1,4 +1,4 @@
-package Java;
+package ShapeHierarchy;
 
 public class Rectangle implements Shape {
 	double length;
@@ -9,7 +9,7 @@ public class Rectangle implements Shape {
 	}
 	public double calculateArea()
 	{
-		System.out.println("Area of rectangle: ");
+		System.out.println("Area of rectangle");
 		return length*breadth;
 	}
 	public double calculatePerimeter()

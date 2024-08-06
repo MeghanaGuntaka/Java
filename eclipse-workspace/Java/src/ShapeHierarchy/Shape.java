@@ -1,4 +1,4 @@
-package Java;
+package ShapeHierarchy;
 
 public interface Shape {
 	
