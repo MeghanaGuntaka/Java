@@ -11,15 +11,15 @@ public class Truck extends  AbstractVehicle {
 		this.speed = speed;
 	}
 	@Override
-	public double calculateFuelEfficiency() 
-	{
-		System.out.println("FuelEfficiency of a truck");
-		return liters/distance*100;
+	public double calculateFuelEfficiency() {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 	@Override
-	public double calculateTravelTime(double distance) {
-		System.out.println("TravelTime of a truck");
-		return distance/speed;
-	} 
+	public double calculateTravelTime(double km) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
 
 }

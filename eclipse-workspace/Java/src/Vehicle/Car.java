@@ -1,6 +1,6 @@
 package Vehicle;
 
-public class Car  extends abstractVehicle{
+public class Car  extends AbstractVehicle{
 	double litres;
 	double distance;
 	double speed;
