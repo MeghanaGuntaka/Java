@@ -1,4 +1,4 @@
-package Assessment;
+package FlyObj;
 
 public class Helicopter extends AbsSpace //implements Flyable
 {

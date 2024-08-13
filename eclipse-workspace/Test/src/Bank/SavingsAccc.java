@@ -1,4 +1,4 @@
-package Assessment;
+package Bank;
 
 public class SavingsAccc  implements BankDetails{
 

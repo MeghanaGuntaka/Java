@@ -1,4 +1,4 @@
-package Assessment;
+package FlyObj;
 
 public class Spacecraft extends AbsSpace implements Flyable{
 

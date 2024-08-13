@@ -1,4 +1,4 @@
-package Assessment;
+package Bank;
 
 public interface BankDetails {
 	void deposit();

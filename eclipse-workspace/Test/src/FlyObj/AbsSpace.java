@@ -1,4 +1,4 @@
-package Assessment;
+package FlyObj;
 
 public abstract class AbsSpace implements Flyable {
 

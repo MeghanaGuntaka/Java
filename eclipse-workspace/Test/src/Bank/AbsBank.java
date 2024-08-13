@@ -1,4 +1,4 @@
-package Assessment;
+package Bank;
 
 public abstract class AbsBank implements BankDetails{
 

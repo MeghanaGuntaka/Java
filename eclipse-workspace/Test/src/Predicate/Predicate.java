@@ -1,4 +1,4 @@
-package Assessment;
+package Predicate;
 
 public class Predicate implements NumberPredicate {
 
