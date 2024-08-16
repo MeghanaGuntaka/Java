@@ -8,12 +8,12 @@ public class StringRev {
 		for(int i=str.length()-1;i>=0;i--) {
 			empty+=str.charAt(i);
 //			empty=c;
-			c=str.toCharArray();
-			System.out.println(str.charAt(i));
+			//c=str.toCharArray();
+			System.out.print(str.charAt(i));
 			
 		}
 		
-		System.out.println(empty);
+		//System.out.println(empty);
 		
 	}
 
